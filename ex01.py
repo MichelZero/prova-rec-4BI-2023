@@ -1,4 +1,7 @@
-
+# autores: Cristiano e Michel
+# Data: 06/12/2023
+# Descrição: Exercício 02
+# Questão: 
 
 
 # Dada uma tupla de nomes de alunos e suas respectivas notas, 
