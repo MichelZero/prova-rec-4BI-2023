@@ -21,4 +21,9 @@ for nome, nota in dicionario.items():
   elif nota == menor_nota:
     print(f"Aluno com a menor nota: {nome}")
     
-    
+
+maior_nota = max(dicionario) # maior nota
+menor_nota = min(dicionario) # menor nota 
+
+print(f"Aluno com a maior nota: {maior_nota}")
+print(f"Aluno com a menor nota: {menor_nota}")  
